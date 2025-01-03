@@ -1,3 +1,3 @@
 # priyanka-demo
 This is my first git repository. 
-Author - Priyanka Jana 
+Author - Priyanka Jana
